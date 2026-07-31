@@ -14,7 +14,7 @@ The objective of this project is to build a regression model capable of estimati
 - Model training
 - Model evaluation
 - Model serialization
-- Interactive web application using Streamlit
+- Interactive web application using Streamlit  
 
 ---
 
